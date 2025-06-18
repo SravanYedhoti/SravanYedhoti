@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SravanYedhoti
-- 👀 I’m interested in web apps
-- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 sravan.yedhoti@gmail.com
 
